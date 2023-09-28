@@ -56,4 +56,4 @@ In this project we built a simple game application that is a mixture between the
 |----------------------|:----------------------:|
 | Fares Atef           | faresatef553@gmail.com |
 | Amr ElSheshtawy      | Sheshtawy321@gmail.com |
-| Ghiath Mohamed       |  gaoia123@gmail.com    |
+| Ghaith Mohamed       |  gaoia123@gmail.com    |
